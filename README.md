@@ -13,20 +13,25 @@
  
 ## About Me
 
-I am a passionate programmer and mobile developer. I started my programming journey at the young age of 12, and since then, I have been exploring various programming languages and technologies. Java, in particular, has been a significant part of my journey, as it sparked my interest in Object-Oriented Programming (OOP).
-
 ### My Focus: Mobile Development with Flutter
 Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerful and versatile framework for building native mobile applications for both Android and iOS. I find great joy in creating beautiful and efficient apps that deliver an exceptional user experience. 
 
 <br>
 
+
 <img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/error-loading.gif" alt="Error Loading" height="350" align="right">
+
 
 ### My current stack :woman_technologist:	
 - Flutter
 - Android
 - Database
 - Java & Kotlin
+
+### In Progress :seedling:
+- IOS
+- Golang
+- Node.js
 
 ### Toolkit :wrench:
 <div>
@@ -35,16 +40,9 @@ Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerfu
 
 </div>
 <div>
-
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Error Loading" height="20">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Error Loading" height="20">
-
 </div>
-
-### In Progress :seedling:
-- IOS
-- Golang
-- Node.js
 
 
 
