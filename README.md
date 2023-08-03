@@ -1,4 +1,13 @@
-## Hi there, welcome to my Github profile! 
+## Hi there, welcome to my Github profile! 🐴:
+
+<div>
+ <img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/emo_fluttershy.gif" alt="Error Loading" height="100">
+ <img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/happy_fluttershy.gif" alt="Error Loading" height="100">
+ <img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/emo_fluttershy_2.gif" alt="Error Loading" height="100">
+ <img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/fancy_fluttershy.gif" alt="Error Loading" height="100">
+
+</div>
+
 
  <br> 
  
@@ -9,31 +18,21 @@ I am a passionate programmer and mobile developer. I started my programming jour
 ### My Focus: Mobile Development with Flutter
 Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerful and versatile framework for building native mobile applications for both Android and iOS. I find great joy in creating beautiful and efficient apps that deliver an exceptional user experience. 
 
-<br>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ST1NF00K/ST1NF00K/main/assets/error-loading.gif" alt="Error Loading" width="400" height="300" align="right">
 
 #### My current stack :woman_technologist:	
- - Flutter
- - Android
- - Database
- - Java & Kotlin
+- Flutter
+- Android
+- Database
+- Java & Kotlin
+
 
 #### In Progress :seedling:
 - Improving my Android knowledge
 - IOS
 - Golang
 - Node.js
-  
-<!--
-**ST1NF00K/ST1NF00K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
