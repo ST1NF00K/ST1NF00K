@@ -28,12 +28,25 @@ Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerfu
 - Database
 - Java & Kotlin
 
+### Toolkit :wrench:
+<div>
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Error Loading" height="20">
+ <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Error Loading" height="20">
+
+</div>
+<div>
+
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Error Loading" height="20">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Error Loading" height="20">
+
+</div>
 
 ### In Progress :seedling:
-- Improving my Android knowledge
 - IOS
 - Golang
 - Node.js
+
+
 
 <br><br>
 
