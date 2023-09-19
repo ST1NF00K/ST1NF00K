@@ -74,5 +74,5 @@ Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerfu
 
 ## Get in Touch
 <a href="mailto:liviacastilholi@gmail.com" rel="error loading">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/livia-santiago-a3a543148/" rel="error loading">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<!--<a href="https://www.linkedin.com/in/livia-santiago-a3a543148/" rel="error loading">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>-->
 <a href="https://discordapp.com/users/316065482694459393" rel="error loading">![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
