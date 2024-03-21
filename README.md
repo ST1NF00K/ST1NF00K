@@ -65,6 +65,7 @@ Currently, I am a Mobile Developer specializing in Flutter. Flutter is a powerfu
 <div>
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Error Loading" height="20">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Error Loading" height="20">
+ <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Error Loading" height="20">
 </div>
 
 
